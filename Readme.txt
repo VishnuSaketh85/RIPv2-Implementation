@@ -1,7 +1,6 @@
 Rit ID : vb8391
 Name : Byreddy Vishnu
 
-Same instructions provided in https://github.com/ProfFryer/MulticastTestingEnvironment to run the program.
 
 (make sure docker is installed)
 To build
